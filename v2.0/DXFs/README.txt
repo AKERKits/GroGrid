@@ -1,3 +1,5 @@
+Design turned parametric by Gregoire Durrens for Aker.
+
 grogrid_6_12.dxf was generated with these parameters :
 
 "tool_diameter"=6
@@ -34,3 +36,4 @@ grogrid_8_12.dxf was generated with these parameters :
 "tab_height" = 3
 
 -------------------------------------------------------------
+
